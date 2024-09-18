@@ -2,7 +2,7 @@
 
 **官方英文文档：[Wireshark_UDP_v8.1.doc](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_UDP_v8.1.doc)**
 
-**trace文件：[dns-wireshark-trace1-1](http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces-8.1.zip)**
+**trace文件：[udp-wireshark-trace1-1](http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces-8.1.zip)**
 
 ## 使用nslookup查询主机名
 
